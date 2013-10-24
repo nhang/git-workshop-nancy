@@ -1,3 +1,4 @@
 git-workshop-nancy
 ==================
-Hello
+Hi
+I live in NYC
